@@ -1,0 +1,7 @@
+/env/
+firebase-adminsdk-credentials.json
+*.swp
+/.mypy_cache/
+*.pem
+__pycache__
+.idea/
